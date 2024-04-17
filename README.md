@@ -14,6 +14,8 @@ Este projeto visa criar um tutorial interativo em Realidade Aumentada (AR) para 
 2. Utilize seu dispositivo móvel ou navegador compatível com AR para visualizar os modelos 3D e os passos da montagem do robô.
 3. Aponte a sua câmera para os marcadores disponíveis em https://github.com/Libhinny/AR_Tool/tree/main/Pattern%20Images em sua específica ordem.
 
+Se você participou do tutorial, por favor, reserve alguns minutos para responder este formulário: https://forms.gle/rh7BYKGLWWMHEo8R9.
+
 ## Requisitos
 - Dispositivo móvel com suporte para Realidade Aumentada (ARCore para Android, ARKit para iOS) ou navegador compatível com AR (por exemplo, Google Chrome ou Mozilla Firefox para Android).
 - Conexão estável com a internet.
